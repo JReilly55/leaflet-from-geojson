@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Restaurant": "Waterman",
+        "Review": "5 Star"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.27328491210938,
+          38.649053322140226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Restaurant": "Vandy",
+        "Review": "4 Star"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.25800704956053,
+          38.62143058055104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Restaurant": "Enright",
+        "Review": "3.5 Star"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.23500442504881,
+          38.642751983402675
+        ]
+      }
+    }
+  ]
+}
